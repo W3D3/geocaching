@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # GC57KJA - Sicherheit und Hilfe
-# Status: In Progress...
+# Status: SOLVED
 
 def getValue(name):
     total = 0
@@ -56,14 +56,16 @@ d = quersumme(getValue('WEGA'))
 #
 # die Anzahl  = E
 
-e = 7
+e = 8
 
 # 6) Wie heißt die kriminalpolizeiliche Datenbank der Polizei? Diese stand auch in der Spitzelaffäre im Mittelpunkt ...  Abkürzung (4 Buchstaben)     Umrechnen nach Schema A=1, B=2,
 #
 # die Quersumme = F
 
 # EKIS (= Elektronischen Kriminalpolizeilichen Informationssystem)
-f = quersumme(getValue('EKIS')) #quersumme???
+# Mad props an stelli :*
+# quersumme von EKIS = 5 + 11 + 9 + 19 =
+f = 26;
 
 # 7) Wie viele Mitgliedstaaten hat INTERPOL ? (Stand: Sep. 2013)
 #
