@@ -1,5 +1,8 @@
 #!/usr/local/bin/python2
 # -*- coding: utf-8 -*-
+#
+# GC57KJA - Sicherheit und Hilfe
+# Status: In Progress...
 
 def getValue(name):
     total = 0

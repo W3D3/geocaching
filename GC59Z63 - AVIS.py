@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # GC59Z63
-
+# Status: SOLVED
 
 def getValue(name):
     total = 0

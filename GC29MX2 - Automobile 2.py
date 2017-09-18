@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+# 
+# GC29MX2 - Automobile 2
+# Status: SOLVED
 
 def getValue(name):
     total = 0
